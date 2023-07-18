@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../practice in VS code.cpp/workspaceforjava/Myfirstproject"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
